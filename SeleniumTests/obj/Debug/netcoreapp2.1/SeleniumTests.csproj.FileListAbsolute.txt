@@ -1,0 +1,14 @@
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\SeleniumTests.deps.json
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\SeleniumTests.runtimeconfig.json
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\SeleniumTests.runtimeconfig.dev.json
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\SeleniumTests.dll
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.AssemblyInfoInputs.cache
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.AssemblyInfo.cs
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\bin\Debug\netcoreapp2.1\SeleniumTests.pdb
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.dll
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.pdb
+C:\LocalProjects\Coursework\TestsForTheMostAmazingWebsiteOnTheInternet\SeleniumTests\obj\Debug\netcoreapp2.1\SeleniumTests.csprojAssemblyReference.cache
